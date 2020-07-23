@@ -18,7 +18,7 @@ The goal is to prepare tidy data that can be used for later analysis and needs t
 5. The work submitted for this project is the work of the student who submitted it.
 
 # Files
-README.md: this file
-CodeBook.md: Description of steps in data preparation performed in run_analysis.R
-run_analysis.R: R-script performing data preparation. It merges the training and testing data, selects only the key, mean and standard deviation, adds labels to values and cleans up the column names.
-FinalData.txt: Export of the final data table.
+* README.md: this file
+* CodeBook.md: Description of steps in data preparation performed in run_analysis.R
+* run_analysis.R: R-script performing data preparation. It merges the training and testing data, selects only the key, mean and standard deviation, adds labels to values and cleans up the column names.
+* FinalData.txt: Export of the final data table.
